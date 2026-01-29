@@ -48,5 +48,5 @@ The script will process the sample images and display the resulting hybrid image
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
 ## Authors
-- Malak Laham
-- Zenab Waked
+- Malak
+- Zenab
